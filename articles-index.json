@@ -6,7 +6,7 @@
         "description": "Understanding the foundation principles that make AI implementations successful.",
         "category": "fundamentals",
         "tags": ["contact-center", "fundamentals", "strategy"],
-        "publishedAt": "2024-01-15",
+        "publishedAt": "2025-01-15",
         "icon": "🏗️",
         "githubPath": "public/articles/fundamentals-matter.md"
       },
@@ -16,7 +16,7 @@
         "description": "Transforming customer experiences with intelligent design and automation.",
         "category": "self-service",
         "tags": ["ai", "self-service", "customer-experience"],
-        "publishedAt": "2024-02-20",
+        "publishedAt": "2025-02-20",
         "icon": "🤖",
         "githubPath": "public/articles/ai-self-service.md"
       },
@@ -26,9 +26,24 @@
         "description": "True modernization starts with understanding your challenges, not just upgrading your tools.",
         "category": "modernization",
         "tags": ["contact-center", "modernization", "strategy"],
-        "publishedAt": "2024-03-10",
+        "publishedAt": "2025-03-10",
         "icon": "🔄",
         "githubPath": "public/articles/ai-agent-deployment.md"
-      }
+      },
+      {
+  "slug": "ai-agent-deployment",
+  "title": "AI in Contact Centers: From Hype to Grounded Answers",
+  "description": "Why most AI agent projects fail in contact centers, and how grounded AI chat interfaces like Nova can finally deliver real value.",
+  "category": "modernization",
+  "tags": [
+    "contact-center",
+    "AI",
+    "strategy",
+    "modernization"
+  ],
+  "publishedAt": "2025-24-08",
+  "icon": "\ud83d\udd04",
+  "githubPath": "public/articles/ai-agent-deployment.md"
+}
     ]
   }
