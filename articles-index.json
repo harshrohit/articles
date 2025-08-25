@@ -1,49 +1,44 @@
 {
-    "articles": [
-      {
-        "slug": "fundamentals-matter",
-        "title": "Why Contact Center Fundamentals Matter More than AI",
-        "description": "Understanding the foundation principles that make AI implementations successful.",
-        "category": "fundamentals",
-        "tags": ["contact-center", "fundamentals", "strategy"],
-        "publishedAt": "2025-01-15",
-        "icon": "🏗️",
-        "githubPath": "public/articles/fundamentals-matter.md"
-      },
-      {
-        "slug": "ai-self-service",
-        "title": "AI-Powered Self-Service in Contact Centers",
-        "description": "Transforming customer experiences with intelligent design and automation.",
-        "category": "self-service",
-        "tags": ["ai", "self-service", "customer-experience"],
-        "publishedAt": "2025-02-20",
-        "icon": "🤖",
-        "githubPath": "public/articles/ai-self-service.md"
-      },
-      {
-        "slug": "ai-agent-deployment",
-        "title": "What Everyone Misses About Contact Center Modernization",
-        "description": "True modernization starts with understanding your challenges, not just upgrading your tools.",
-        "category": "modernization",
-        "tags": ["contact-center", "modernization", "strategy"],
-        "publishedAt": "2025-03-10",
-        "icon": "🔄",
-        "githubPath": "public/articles/ai-agent-deployment.md"
-      },
-      {
-  "slug": "ai-agent-best-practices",
-  "title": "AI in Contact Centers: From Hype to Grounded Answers",
-  "description": "Why most AI agent projects fail in contact centers, and how grounded AI chat interfaces like Nova can finally deliver real value.",
-  "category": "modernization",
-  "tags": [
-    "contact-center",
-    "AI",
-    "strategy",
-    "modernization"
-  ],
-  "publishedAt": "2025-24-08",
-  "icon": "\ud83d\udd04",
-  "githubPath": "public/articles/ai-agent-best-practices.md"
+  "articles": [
+    {
+      "slug": "fundamentals-matter",
+      "title": "Why Contact Center Fundamentals Matter More than AI",
+      "description": "Understanding the foundation principles that make AI implementations successful.",
+      "category": "fundamentals",
+      "tags": ["contact-center", "fundamentals", "strategy"],
+      "publishedAt": "2025-01-15",
+      "icon": "🏗️",
+      "githubPath": "public/articles/fundamentals-matter.md"
+    },
+    {
+      "slug": "ai-self-service",
+      "title": "AI-Powered Self-Service in Contact Centers",
+      "description": "Transforming customer experiences with intelligent design and automation.",
+      "category": "self-service",
+      "tags": ["ai", "self-service", "customer-experience"],
+      "publishedAt": "2025-02-20",
+      "icon": "🤖",
+      "githubPath": "public/articles/ai-self-service.md"
+    },
+    {
+      "slug": "ai-agent-deployment",
+      "title": "What Everyone Misses About Contact Center Modernization",
+      "description": "True modernization starts with understanding your challenges, not just upgrading your tools.",
+      "category": "modernization",
+      "tags": ["contact-center", "modernization", "strategy"],
+      "publishedAt": "2025-03-10",
+      "icon": "🔄",
+      "githubPath": "public/articles/ai-agent-deployment.md"
+    },
+    {
+      "slug": "ai-agent-best-practices",
+      "title": "AI in Contact Centers: From Hype to Grounded Answers",
+      "description": "Why most AI agent projects fail in contact centers, and how grounded AI chat interfaces like Nova can finally deliver real value.",
+      "category": "modernization",
+      "tags": ["contact-center", "AI", "strategy", "modernization"],
+      "publishedAt": "2025-08-24",
+      "icon": "🔄",
+      "githubPath": "public/articles/ai-agent-best-practices.md"
+    }
+  ]
 }
-    ]
-  }
