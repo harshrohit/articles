@@ -35,8 +35,6 @@ The real AI opportunity isn’t in replacing headcount — it’s in plugging th
 - **Repetitive queries:** Studies show **30–40% of tickets are “highly repetitive yet easy to solve”** ([DigitalGenius](https://www.prnewswire.com/news-releases/new-report-finds-that-40-of-customer-service-tickets-are-repetitive-301425160.html?utm_source=chatgpt.com)). Perfect territory for AI.  
 - **Peak overloads:** Machine learning workforce tools already optimize schedules — when paired with AI bots, contact centers gain an **elastic buffer** to handle Monday surges or seasonal spikes.  
 
-👉 *This is where a domain-aware AI like Nova becomes powerful. Instead of generic automation, Nova helps you uncover and prioritize exactly which inefficiencies — repetitive FAQs, wasted minutes in wrap-up, or overload during peaks — AI should target first.*  
-
 ---
 
 ## 4. Internal Readiness  
@@ -61,8 +59,6 @@ Winners flip the sequence:
 1. Identify friction (repetition, wrap-up times, overload).  
 2. Fix the cracks (clean data, unified systems, staff buy-in).  
 3. Then let AI pour in like cement.  
-
-👉 *Identifying those pain points isn’t easy. That’s why we built Nova — an AI that doesn’t just answer questions, but helps you surface your contact center’s hidden cracks before they widen.*  
 
 ---
 
