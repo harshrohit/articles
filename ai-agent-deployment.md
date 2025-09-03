@@ -130,19 +130,3 @@ Modernization isn't about jumping on the latest tech trend. It's about solving r
 If you start by understanding your needs, simplifying your systems, and choosing solutions that make sense for your business, you'll modernize in a way that actually improves your contact center. Forget the hype. Real change comes from smart, thoughtful decisions, not chasing every new feature.
 
 Take control of your contact center's future. The right modernization doesn't just happen — it's built with clarity, strategy, and the courage to do it your way.
-
----
-
-## Navigate Modernization with Confidence
-
-**Ready to modernize the right way?** Nova helps you understand the strategic approach to contact center transformation — focusing on solving problems, not just implementing technology.
-
-### What Nova Guides You Through:
-- **Defining clear modernization goals** that align with your business needs
-- **Assessing your current systems** to identify real bottlenecks and opportunities
-- **Building strategic RFPs** that get you solutions, not just vendor pitches
-- **Measuring success** by outcomes that matter to your customers and business
-
-[**Learn Modern Transformation with Nova →**](/try-nova-deployment)
-
-*Nova: Your strategic guide to purposeful contact center modernization.*
