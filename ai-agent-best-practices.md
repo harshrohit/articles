@@ -59,19 +59,3 @@ Winners flip the sequence:
 1. Identify friction (repetition, wrap-up times, overload).  
 2. Fix the cracks (clean data, unified systems, staff buy-in).  
 3. Then let AI pour in like cement.  
-
----
-
-## Experience Contact Center Answers in Action with Nova  
-
-**Ready to see how AI should really work in contact centers?** Nova gives you a chat interface where you can ask questions the way you think about them — and get answers grounded in your own knowledge. No hallucinations. No generic scripts. Just clear, contextual responses that help you cut through complexity.  
-
-### See Nova Live:  
-- **Understand complex routing strategies** with real-world examples  
-- **Explore best practices** for queue management, reporting, and analytics  
-- **Learn how AI enhances** rather than replaces your fundamentals  
-- **Get instant answers** to your toughest contact center challenges  
-
-👉 [**Try Nova Now – See the Difference Grounded AI Makes →**](https://pellucidus.ai)  
-
-*Nova: Where AI meets Contact Center Excellence. Start your journey towards smarter knowledge access today.*  
