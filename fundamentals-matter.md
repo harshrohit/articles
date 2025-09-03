@@ -55,19 +55,3 @@ Does this mean that the businesses should not look towards AI in contact centers
 ## Conclusion
 
 In the rush to incorporate AI, it's easy to forget the basics of contact center. However, the most advanced technology can only perform if built on the solid foundation. In the end, focus on mastering the fundamentals first and let AI enhance what you've already perfected.
-
----
-
-## Experience These Fundamentals in Action with Nova
-
-**Ready to see how AI should really work in contact centers?** Nova demonstrates the perfect balance between AI innovation and solid fundamentals. Built on the principles of effective routing, comprehensive analytics, and agent empowerment, Nova shows you exactly how to implement AI the right way.
-
-### See Nova Live:
-- **Understand complex routing strategies** with real-world examples
-- **Explore best practices** for queue management and reporting
-- **Learn how AI enhances** rather than replaces your fundamentals
-- **Get instant answers** to your contact center challenges
-
-[**Try Nova Now - See the Difference Fundamentals Make →**](/try-nova-fundamentals)
-
-*Nova: Where AI meets Contact Center Excellence. Start your journey towards smarter contact center management today.*
