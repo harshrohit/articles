@@ -1,7 +1,7 @@
 ---
 title: "Why Most AI Agent Projects in Contact Centers Fail (And How to Finally Get It Right)"
 description: "Walk into a modern contact center and you'll feel the strain: customers expect instant, personalized support; agents juggle multiple disconnected systems; executives are told “AI agents” will fix it all. Yet too often, reality falls short."
-date: "2025-30-08"
+date: "2025-08-30"
 author: "Rohit Harsh"
 tags: ["contact-center", "modernization", "strategy", "transformation"]
 icon: "🔄"
