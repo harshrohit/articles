@@ -186,19 +186,3 @@ Everything we design — every system, every process, every interaction — shou
 The contact center industry isn't about technologies or tools. It's about moments. Moments where frustration can turn into relief, where questions find answers, and where trust is built, one interaction at a time. Yet too often, we design for efficiency instead of empathy, for metrics instead of meaning.
 
 So, as you move forward, design with the customer's heart in mind. Think beyond the tools and focus on the trust you're shaping. Build systems that empower, journeys that inspire, and experiences that people remember for the right reasons.
-
----
-
-## Experience Intelligent Self-Service with Nova
-
-**Ready to transform your self-service approach?** Nova demonstrates how AI can create the empathetic, intelligent self-service experiences described in this article. See how customer-centric design meets cutting-edge technology.
-
-### What Nova Shows You:
-- **Natural conversations** that understand context and intent
-- **Smart escalation** that preserves the full customer journey
-- **Personalized guidance** based on real-time understanding
-- **Continuous learning** that improves with every interaction
-
-[**Try Nova's Self-Service Experience →**](/try-nova-self-service)
-
-*Nova: Where empathy meets intelligence in contact center self-service.*
