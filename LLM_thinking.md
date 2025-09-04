@@ -96,7 +96,7 @@ Sometimes the error disappears a week later. Why? Not because the machine sudden
 
 It doesn’t understand the problem. It just learned a response that looks correct.
 
-[Response from ChatGPT](/images/blog/llm-thinking/LLM_thinking.png)
+[ChatGPT Answer](/images/blog/llm-thinking/LLM_thinking.png)
 
 ---
 
