@@ -11,6 +11,7 @@ patternGradient: "from-blue-200/50 to-cyan-200/50"
 
 # Your AI Assistant Isn't Thinking (And That Should Worry You)
 
+
 Everywhere you look today, there’s a new tool, a new platform, a new app — all claiming to use AI. Not because they all need it. But because that’s what people expect to hear right now.
 
 But behind all these, there is an importnat question which needs to be asked: 
