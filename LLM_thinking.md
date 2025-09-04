@@ -3,7 +3,7 @@ title: "Your AI Assistant Isn't Thinking (And That Should Worry You)"
 description: "A view at why large language models don’t actually think—and why pretending they do could cost us more than we realize."
 date: "2025-09-03"
 author: "Rohit Harsh"
-tags: ["contact-center", "modernization", "strategy", "transformation"]
+tags: ["LLM", "Thinking", "Apple", "PromptEngineering"]
 icon: "🔄"
 gradient: "from-blue-100 to-cyan-100"
 patternGradient: "from-blue-200/50 to-cyan-200/50"
@@ -11,10 +11,9 @@ patternGradient: "from-blue-200/50 to-cyan-200/50"
 
 # Your AI Assistant Isn't Thinking (And That Should Worry You)
 
-
 Everywhere you look today, there’s a new tool, a new platform, a new app — all claiming to use AI. Not because they all need it. But because that’s what people expect to hear right now.
 
-But behind all these, there is an importnat question which needs to be asked: 
+But behind all these, there is an important question which needs to be asked: 
 
 **What does it mean for a machine to "think"? And are we confusing performance with intelligence?**
 
