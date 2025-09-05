@@ -11,7 +11,7 @@ patternGradient: "from-blue-200/50 to-cyan-200/50"
 
 # The Day "Just Ask ChatGPT" Became the Only Answer
 
-Recently, I need to do write some query to compare the data on the Google BigQuery.
+Recently, I need to write some query to pull the data on the BigQuery.
 
 A couple of years back, I would have gone to Google, searched by the error, read the schema guide or may be pinged a teammate for help. 
 
