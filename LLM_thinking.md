@@ -1,5 +1,5 @@
 ---
-title: "The Day "Just Ask ChatGPT" Became the Only Answer"
+title: "The Day \"Just Ask ChatGPT\" Became the Only Answer"
 description: "We've replaced thinking with prompting, understanding with copy-pasting, and learning with asking ChatGPT — and we're calling it productivity."
 date: "2025-09-03"
 author: "Rohit Harsh"
