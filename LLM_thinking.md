@@ -1,6 +1,6 @@
 ---
-title: "Your AI Assistant Isn't Thinking (And That Should Worry You)"
-description: "A view at why large language models don’t actually think—and why pretending they do could cost us more than we realize."
+title: "The Day "Just Ask ChatGPT" Became the Only Answer"
+description: "We've replaced thinking with prompting, understanding with copy-pasting, and learning with asking ChatGPT — and we're calling it productivity."
 date: "2025-09-03"
 author: "Rohit Harsh"
 tags: ["LLM", "Thinking", "Apple", "PromptEngineering"]
@@ -9,176 +9,166 @@ gradient: "from-blue-100 to-cyan-100"
 patternGradient: "from-blue-200/50 to-cyan-200/50"
 ---
 
-# Your AI Assistant Isn't Thinking (And That Should Worry You)
+# The Day "Just Ask ChatGPT" Became the Only Answer
 
-Everywhere you look today, there’s a new tool, a new platform, a new app — all claiming to use AI. Not because they all need it. But because that’s what people expect to hear right now.
+Recently, I need to do write some query to compare the data on the Google BigQuery.
 
-But behind all these, there is an important question which needs to be asked: 
+A couple of years back, I would have gone to Google, searched by the error, read the schema guide or may be pinged a teammate for help. 
 
-**What does it mean for a machine to "think"? And are we confusing performance with intelligence?**
+This time? I copied the error, pasted it into ChatGPT, got a solution, copied it back. It worked. I moved on.
 
----
+I never understood why it failed. I never learned what fixed it. All I cared was the solution. 
 
-## The Three Types of Opinions People Hold About AI
-
-Talk to enough people, and you'll notice they usually land in one of three groups:
-
-1. **Skeptics**, who believe the current wave is unsustainable and will eventually taper off.
-2. **Optimists**, who admit the current tech is overhyped, but believe a future breakthrough will eventually deliver on the promises — so it’s worth staying in the game.
-3. **Realists**, who believe this technology has real value, but only in narrow, specific tasks. Beyond that? Mostly noise.
-
-I find myself in the third camp. And before you ask — yes, I use these tools and for the record everyday. They're great at certain things. But they're not doing what you think they're doing.
-
-They’re not thinking.
+And this made me realize that somewhere along the way, I stopped thinking through the problem and I think many of us did. 
 
 ---
 
-## “But Are You Saying Every CEO Is Wrong?”
+## The Truth
 
-When I say this out loud, I often get asked:  
-*“If you're skeptical, are you saying all these CEOs and industry leaders are wrong?”*
+The LLMs do not think, but what is more worrisome is **Neither are you, anymore.**
 
-That question reminds me of 2008.  
-I started my career during the financial crash. Back then, everyone — from top executives to financial media — insisted things were fine, stable, and under control. They weren’t.
+We used to work through the problems. We Googled and then we would read different explanations, synthesize them, build mental models. We asked our team-mates and actually listen to their reasoning. The struggle was the point and that's how we learnt and understood the concepts.
 
-The crowd is often wrong. And in hindsight, it's easy to see who was thinking clearly and who was just echoing the group.
+Today we go straight to ChatGPT. Not for help to think through the issue, but to avoid thinking entirely. We want the quick answer, not the understanding of the concepts. We just want quick solutions. 
 
----
+And all of this feels so efficient, so smart, and the illusion that we are getting more done than ever.
 
-## “What Are You Doing to Prepare for the AI Future?”
-
-Another question I hear regularly.  
-My answer: **Not much**.
-
-Unless you're building foundational models yourself — which requires billions of dollars in compute and data — most of us are just onlookers. We’ll end up as end-users of systems built by a handful of massive companies. Just another subscription tier.
-
-So no, I’m not redesigning my life or business around the latest LLM. Because unless you control the core, you're just along for the ride.
+The reality: We're just copying faster.
 
 ---
 
-## Everyone’s Releasing AI Chatbots — Few Are Useful
+## The Moment I Knew We Were Lost
 
-You've probably noticed this too.  
-Suddenly, every product update includes a chatbot. Most don’t work well. They don’t understand nuance, they don’t handle edge cases, and users stop using them after the first few tries.
+Last week, I watched someone use an AI coding assistant to build an API integration. When it didn't work, he spent hours copying error messages into ChatGPT, then pasting the solution, and then again copying new errors back. An endless loop of blind troubleshooting and trust. 
 
-Adding “AI” to a feature isn’t the same as making something useful.
+Finally, the old method of Google and reading the official documentation worked. 
 
----
+The issue? The API had been updated recently. However, the LLM was confidently providing code for the old version. 
 
-## Apple’s Cautious Approach
+Five minutes reading the actual docs vs. hours asking an AI that was working from old training data.
 
-Personally, I am a fan of Apple, not because of iPhone or MAC, but because how they do business and respect how they wait. Today also, they are doing something interesting: actually thinking about thinking. 
+We all just assume ChatGPT would know the current version.
 
-They’ve published two deep studies on this subject:
-
-- [The Illusion of Thinking (June 2025)](https://machinelearning.apple.com/research/illusion-of-thinking)  
-- [Symbolic Reasoning and GSM8K (Oct 2024)](https://machinelearning.apple.com/research/gsm-symbolic)
-
-Both studies unpack the idea that LLMs often appear to reason — but are simply assembling patterns they’ve seen before.
-
-That doesn’t mean Apple won’t ship AI features. Investor pressure might eventually push them to. But I admire their instinct to question, not just follow.
+We are not even *attempting* to go to the source anymore. We are asking an AI that learned from yesterday's internet to solve today's problems.
 
 ---
 
-## River Crossing
+## "Just Ask ChatGPT" Is the New Intellectual Laziness
 
-Here’s a simple test.
+I catch myself doing it constantly now:
+- Need to understand a concept? ChatGPT explains it
+- Writing an email? ChatGPT drafts it  
+- Solving a problem? ChatGPT provides the solution
+- Having an opinion? ChatGPT forms it for me
 
-You’ve probably heard the puzzle:
+I don't read documentation anymore. I don't Google to search for the answers. I ask ChatGPT to summarize them.
 
-> You have a wolf, a goat, and a cabbage. You can only carry one at a time across a river. If you leave the wolf alone with the goat, it eats the goat. Same with the goat and the cabbage.
-
-Most LLMs can solve this — because it’s been discussed online for years.
-
-But change the story just a little — swap the goat with a car, or reorder the instructions — and the system breaks. It loses the logic.
-
-Sometimes the error disappears a week later. Why? Not because the machine suddenly “learned,” but because someone behind the scenes patched the output or retrained the model.
-
-It doesn’t understand the problem. It just learned a response that looks correct.
-
-[ChatGPT Answer](/images/blog/llm-thinking/LLM_thinking.png)
+The worst part? When someone asks me to explain something I "learned" this way, I can't. Because I never actually learned it. I just got past it.
 
 ---
 
-## What *Is* Thinking?
+## Three lies we keep telling ourselves
 
-When we think, we:
-- Build mental models
-- Question assumptions
-- Learn from mistakes
-- Connect unrelated ideas
-- Imagine "what if" scenarios
+**Lie #1: "I'm using AI as a tool, like a calculator"**
 
-That’s not how LLMs operate. They don’t introspect. They don’t question their assumptions. They can’t.
+Calculators compute; you still have to know what to compute and why. AI generates entire solutions. You are not using it. You are outsourcing to it.
 
-They’re incredibly advanced pattern recognizers. But they don’t *know* they’re doing anything.
+**Lie #2: "I'm more productive than ever"**
 
-So why is it hard to notice? Because they’ve gotten *so good* at producing fluent, well-structured answers, we mistake form for depth.
+You're faster at producing mediocre work. All the solutions, all the articles, all the codes mostly feel the same. You have actually outsourced it to ChatGPT. 
 
----
+**Lie #3: "I'll learn the real skills when I need them"**
 
-## Workarounds Disguised as Progress
-
-The industry knows these models don’t really reason. So it’s found ways to cover up the limitations.
-
-Two popular ones:
-
-- **Chain of Thought (CoT)** — where the model “shows its work” like a student on a math test.  
-  But it can still fabricate logic that *sounds* reasonable without being true.
-- **RAG (Retrieval-Augmented Generation)** — which lets the model look up facts in a database before answering.  
-  Useful, but also an admission that the model itself doesn’t *know* much of anything.
-
-These are clever solutions. But they’re still workarounds.
+No, you won't. Skills atrophy. More importantly, you won't even know what you don't know. 
 
 ---
 
-## Being Late Isn’t Always a Mistake
+## The Day Apple Said No (And Why It Matters)
 
-Apple was late to smartphones.  
-Late to tablets.  
-Late to wearables.  
-Late to generative AI.
+While everyone rushed to build chatbots and put AI on everything, Apple published two papers essentially saying: "These things can't actually reason, and we can prove it."
 
-But they still became the first company in history to hit $3 trillion in market value.
+They tested the latest "reasoning" models, the ones that supposedly "think step-by-step" and "show their work." The study shows that these models face complete accuracy collapse when problems get complex. Even worse: they *appear* to reason more with harder problems, but then suddenly give up, despite having plenty of tokens left to think.
 
-Why? Because they made fewer wrong bets. They focused on getting it *right*, not getting there *first*.
+On simple tasks, regular LLMs actually outperform these "reasoning" models. The entire step-by-step thinking process is an illusion.
 
-There’s a lesson in that.
+Read the studies yourself:
+- [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://machinelearning.apple.com/research/gsm-symbolic)
+- [The Illusion of Thinking](https://machinelearning.apple.com/research/illusion-of-thinking)
 
----
+Today, every company is shipping half baked AI features, not because they need them or the users, but somehow they're terrified of being seen as "behind." They're adding chatbots that don't work, AI assistants that nobody uses, all to tick a box that says "we have AI."
 
-## Overdependence and Cognitive Decline
+And unless you're OpenAI, Google, or Anthropic, unless you're spending billions on compute and training, you are not in the AI business. You are just another customer, another subscriber or an another monthly payment to use someone else's models.
 
-Here’s what is of utmost concern:
+The entire industry is racing to integrate technology they don't control, can't improve, and barely understand. All to avoid looking outdated in earnings calls.
 
-People are replacing understanding with shortcuts.  
-Instead of learning how systems work or building deep skills, they’re learning how to write better prompts.
-
-Btw, if AGI does arrive, we won’t need prompt engineers.  
-And if it *doesn’t*, then a generation of surface-level users — who can’t solve problems without a tool — will be replaceable. Not by AI, but by others who kept learning.
-
-There’s no value in being “good at using ChatGPT” if that’s all you can do.
+That happened multiple times in history. Remember 2008 financial meltdown? The CDOs were so complex that even experts struggled to understand them, yet major financial institutions kept using them until the collapse.
 
 ---
 
-## We Train the Ceiling
+## Your Career Has a New Expiration Date
 
-LLMs don’t invent new ideas.  
-They remix ours.
+If you're 30 and dependent on AI-assisted work, you have maybe 5 years before one of two things happens:
 
-Until we build something fundamentally different — something that *thinks* — these models will only be as good as the people using them.
+1. **AGI arrives**, and you're instantly obsolete because you trained yourself to be a worse version of what it does perfectly.
 
-If we stop thinking, creating, or exploring because “AI will handle it,” we’re just capping the ceiling on our own progress.
+2. **AGI doesn't arrive**, and companies realize they need people who can actually think, not prompts for LLM. But you've spent years becoming an AI operator instead of developing real expertise.
+
+Either way, you lose.
+
+The people who will win would be the creative minds, who are using this time differently. They're going deeper while everyone else goes broader and shallower. They're the ones who can explain WHY the AI's answer is wrong, not just copy-paste it.
 
 ---
 
-## The Bottom Line
+## What Thinking Actually Looks Like
 
-Your AI assistant is incredible at pattern matching. It's a master of looking intelligent. But it doesn't think, doesn't understand, and doesn't know it exists.
+When you're really thinking, not just recalling information, you can feel the doubts, the feeling of wrong. You experience that uncomfortable moment where your logic doesn't work, where the pieces don't connect, the frustataion of not figuring out things.
 
-The danger isn't that AI will replace human thinking.
-The danger is that we'll forget what thinking actually is — and mistake performance for intelligence, fluency for understanding, and pattern matching for wisdom.
+When you're just remembering, everything feels smooth. The answer appears just like that, no cognitive effort. 
 
-Don't let the illusion fool you. Keep thinking. Keep questioning. Keep creating.
+An LLM can never feels what it takes to think. It doesn't experience that productive discomfort of working through a problem. It doesn't have that "aha" moment when things finally click. It just produces tokens that statistically follow other tokens.
 
-Because if we don't, who will train the next generation of models?
+When you outsource thinking to these systems, you don't lose the answer, you lose the entire journey of understanding. And that journey, that struggle, is what makes you valuable.
+
+---
+
+## The Power Game Nobody's Talking About
+
+Here's what's actually happening:
+
+Five companies now mediate how millions of people think. They decide what patterns get reinforced, what solutions seem obvious, what ideas feel creative.
+
+You think you're getting personalized assistance. You're actually getting homogenized thought, filtered through the same training data, the same RLHF, the same guardrails.
+
+The real AI apocalypse isn't robots taking over. It's human thought converging to the same bland average. Everyone writing with the same voice, solving problems the same way, having the same "insights" because we all have one same teacher.
+
+---
+
+## What You Should Actually Do
+
+**The Explanation Test**: Explain something you're working on to someone outside your field. If you can't explain it, you don't understand it.
+
+**Build Something Stupid**: Create something nobody needs. A bad story, an inefficient solution, a wrong answer. The point isn't the output, it's exercising the muscle of creation without the support of "best practices" from an LLM.
+
+**Read Actual Books**: Not the AI generated summaries. Your brain needs to struggle to understand something, not just consume pre-digested insights.
+
+**Solve Problems Backwards**: When facing a unique issue or a question, start by assuming the AI's first suggestion is wrong. Work backwards to understand why. You'll often find it was right, but now you'll know WHY.
+
+---
+
+## The Choice
+
+We're at an inflection point. Not for AI but for us.
+
+Either we maintain our ability to think and understands what these tools actually are. A brilliant pattern matchers that simulate understanding without possessing it, or we atrophy into prompt engineers for systems we don't comprehend, solving problems we can't actually solve, knowing things we don't really know.
+
+"Just ask ChatGPT" has become the default answer to everything. But what happens when ChatGPT doesn't know? What happens when it's confidently wrong? What happens when the problem needs actual understanding, not pattern matching?
+
+More importantly: What happens when you can no longer tell the difference?
+
+The machines aren't going to start thinking.
+
+The question is: Will we stop?
+
+---
+
+*P.S.: If you used AI to read, summarize, or respond to this article, you've proven my point. Notice what just happened: You outsourced your engagement with an argument about not outsourcing your thinking. Sit with that discomfort. That feeling? That's what thinking feels like.*
