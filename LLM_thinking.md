@@ -11,7 +11,7 @@ patternGradient: "from-blue-200/50 to-cyan-200/50"
 
 # The Day "Just Ask ChatGPT" Became the Only Answer
 
-Recently, I needed to write a query to pull the data on the BigQuery.
+Recently, I needed to write a query to pull the data in BigQuery.
 
 A couple of years back, I would have gone to Google, searched the error, read the schema guide or maybe pinged a teammate for help. 
 
@@ -27,13 +27,13 @@ And this made me realize that somewhere along the way, I stopped thinking throug
 
 The LLMs do not think, but what is more worrisome is **Neither are you, anymore.**
 
-We used to work through the problems. We Googled and then we would read different explanations, synthesize them, build mental models. We asked our team-mates and actually listen to their reasoning. The struggle was the point and that's how we learnt and understood the concepts.
+We used to work through the problems. We Googled and then we would read different explanations, synthesize them, build mental models. We asked our team-mates and actually listened to their reasoning. The struggle was the point and that's how we learnt and understood the concepts.
 
 Today we go straight to ChatGPT, not for help to think through the issue, but to avoid thinking entirely. We want the quick answer, not the understanding of the concepts.
 
 And all of this feels so efficient, so smart, and the illusion that we are getting more done than ever.
 
-The reality: We are just clicking a Send Button.
+The reality: We are just clicking a send button.
 
 ---
 
@@ -43,7 +43,7 @@ Like muscles, our cognitive skills weaken when we don't use them. Relying on AI 
 
 A recent [study](https://www.pnas.org/doi/abs/10.1073/pnas.2422633122?doi=10.1073%2Fpnas.2422633122&mod=ANLink) gives us an unsettling glimpse of this phenomenon. Students using ChatGPT performed **48%** better than their counterparts who did not have access to the AI. However, the same group of students performed **17%** lower when the AI access is taken away. 
 
-Another [study](https://www.psychologicalscience.org/news/releases/want-to-solve-a-problem-dont-just-use-your-brains-but-your-bodies-too.html) reminds us that problem solving is not just the work of the brain but also our body. We use our hands, our posture, even our gestures to think, and, when we delegate to AI too quickly, we skip this process, and lose the deeper engagement. 
+Another [study](https://www.psychologicalscience.org/news/releases/want-to-solve-a-problem-dont-just-use-your-brains-but-your-bodies-too.html) reminds us that problem solving is not just the work of the brain but also our body. We use our hands, our posture, even our gestures to think, and, when we delegate to AI too quickly, we skip this process and lose the deeper engagement. 
 
 ---
 
@@ -89,7 +89,7 @@ Read the studies yourself:
 - [GSM-Symbolic: Understanding the Limitations of Mathematical Reasoning in Large Language Models](https://machinelearning.apple.com/research/gsm-symbolic)
 - [The Illusion of Thinking](https://machinelearning.apple.com/research/illusion-of-thinking)
 
-Today, every company is shipping half baked AI features, not because they need them or the users, but somehow they're terrified of being seen as "behind." They're adding chatbots that don't work, AI assistants that nobody uses, all to tick a box that says "we have AI."
+Today, every company is shipping half baked AI features, not because they or their users need them, but somehow they're terrified of being seen as "behind." They're adding chatbots that don't work, AI assistants that nobody uses, all to tick a box that says "we have AI."
 
 And unless you're OpenAI, Google, or Anthropic, unless you're spending billions on compute and training, you are not in the AI business. You are just another customer, another subscriber or just another monthly payment to use someone else's models.
 
