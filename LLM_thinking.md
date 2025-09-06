@@ -11,9 +11,9 @@ patternGradient: "from-blue-200/50 to-cyan-200/50"
 
 # The Day "Just Ask ChatGPT" Became the Only Answer
 
-Recently, I need to write some query to pull the data on the BigQuery.
+Recently, I needed to write a query to pull the data on the BigQuery.
 
-A couple of years back, I would have gone to Google, searched by the error, read the schema guide or may be pinged a teammate for help. 
+A couple of years back, I would have gone to Google, searched the error, read the schema guide or maybe pinged a teammate for help. 
 
 This time? I copied the error, pasted it into ChatGPT, got a solution, copied it back. It worked. I moved on.
 
@@ -29,27 +29,21 @@ The LLMs do not think, but what is more worrisome is **Neither are you, anymore.
 
 We used to work through the problems. We Googled and then we would read different explanations, synthesize them, build mental models. We asked our team-mates and actually listen to their reasoning. The struggle was the point and that's how we learnt and understood the concepts.
 
-Today we go straight to ChatGPT. Not for help to think through the issue, but to avoid thinking entirely. We want the quick answer, not the understanding of the concepts. We just want quick solutions. 
+Today we go straight to ChatGPT, not for help to think through the issue, but to avoid thinking entirely. We want the quick answer, not the understanding of the concepts.
 
 And all of this feels so efficient, so smart, and the illusion that we are getting more done than ever.
 
-The reality: We're just copying faster.
+The reality: We are just clicking a Send Button.
 
 ---
 
-## The Moment I Knew We Were Lost
+## The Cognitive Decline
 
-Last week, I watched someone use an AI coding assistant to build an API integration. When it didn't work, he spent hours copying error messages into ChatGPT, then pasting the solution, and then again copying new errors back. An endless loop of blind troubleshooting and trust. 
+Like muscles, our cognitive skills weaken when we don't use them. Relying on AI for every task, question, or problem can quietly erode our ability to reason, think creatively, and solve things ourselves.
 
-Finally, the old method of Google and reading the official documentation worked. 
+A recent [study](https://www.pnas.org/doi/abs/10.1073/pnas.2422633122?doi=10.1073%2Fpnas.2422633122&mod=ANLink) gives us an unsettling glimpse of this phenomenon. Students using ChatGPT performed **48%** better than their counterparts who did not have access to the AI. However, the same group of students performed **17%** lower when the AI access is taken away. 
 
-The issue? The API had been updated recently. However, the LLM was confidently providing code for the old version. 
-
-Five minutes reading the actual docs vs. hours asking an AI that was working from old training data.
-
-We all just assume ChatGPT would know the current version.
-
-We are not even *attempting* to go to the source anymore. We are asking an AI that learned from yesterday's internet to solve today's problems.
+Another [study](https://www.psychologicalscience.org/news/releases/want-to-solve-a-problem-dont-just-use-your-brains-but-your-bodies-too.html) reminds us that problem solving is not just the work of the brain but also our body. We use our hands, our posture, even our gestures to think, and, when we delegate to AI too quickly, we skip this process, and lose the deeper engagement. 
 
 ---
 
@@ -71,7 +65,7 @@ The worst part? When someone asks me to explain something I "learned" this way, 
 
 **Lie #1: "I'm using AI as a tool, like a calculator"**
 
-Calculators compute; you still have to know what to compute and why. AI generates entire solutions. You are not using it. You are outsourcing to it.
+Calculators just compute, but you still want to figure out what to compute and why, but AI generates entire solutions.
 
 **Lie #2: "I'm more productive than ever"**
 
@@ -97,59 +91,57 @@ Read the studies yourself:
 
 Today, every company is shipping half baked AI features, not because they need them or the users, but somehow they're terrified of being seen as "behind." They're adding chatbots that don't work, AI assistants that nobody uses, all to tick a box that says "we have AI."
 
-And unless you're OpenAI, Google, or Anthropic, unless you're spending billions on compute and training, you are not in the AI business. You are just another customer, another subscriber or an another monthly payment to use someone else's models.
+And unless you're OpenAI, Google, or Anthropic, unless you're spending billions on compute and training, you are not in the AI business. You are just another customer, another subscriber or just another monthly payment to use someone else's models.
 
-The entire industry is racing to integrate technology they don't control, can't improve, and barely understand. All to avoid looking outdated in earnings calls.
+The entire industry is racing to integrate technology they don't control, can't improve, and barely understand. All to avoid looking outdated in earnings calls. 
 
-That happened multiple times in history. Remember 2008 financial meltdown? The CDOs were so complex that even experts struggled to understand them, yet major financial institutions kept using them until the collapse.
+But in this mad rush, they are also losing the ability to develop talents and create value. 
 
 ---
 
-## Your Career Has a New Expiration Date
+## What Happens When the Learning Stops 
 
-If you're 30 and dependent on AI-assisted work, you have maybe 5 years before one of two things happens:
+If you're 30 and dependent on AI-assisted work, you have maybe 5 years before one of the two things happens:
 
 1. **AGI arrives**, and you're instantly obsolete because you trained yourself to be a worse version of what it does perfectly.
 
 2. **AGI doesn't arrive**, and companies realize they need people who can actually think, not prompts for LLM. But you've spent years becoming an AI operator instead of developing real expertise.
 
-Either way, you lose.
+Either way, you are unprepared.
 
-The people who will win would be the creative minds, who are using this time differently. They're going deeper while everyone else goes broader and shallower. They're the ones who can explain WHY the AI's answer is wrong, not just copy-paste it.
+The people who will win are the creative minds, who are using this time differently. They're going deeper while everyone else goes broader and shallower. They're the ones who can explain WHY the AI's answer is wrong, not just copy-paste it.
 
 ---
 
 ## What Thinking Actually Looks Like
 
-When you're really thinking, not just recalling information, you can feel the doubts, the feeling of wrong. You experience that uncomfortable moment where your logic doesn't work, where the pieces don't connect, the frustataion of not figuring out things.
+When you're really thinking, not just recalling information, you can feel the doubts, the feeling that something is off. You experience that uncomfortable moment where your logic doesn't work, where the pieces don't connect, the frustration of not figuring things out.
 
 When you're just remembering, everything feels smooth. The answer appears just like that, no cognitive effort. 
 
-An LLM can never feels what it takes to think. It doesn't experience that productive discomfort of working through a problem. It doesn't have that "aha" moment when things finally click. It just produces tokens that statistically follow other tokens.
+An LLM can never feel what it takes to think. It doesn't experience that productive discomfort of working through a problem. It doesn't have that "aha" moment when things finally click. 
 
 When you outsource thinking to these systems, you don't lose the answer, you lose the entire journey of understanding. And that journey, that struggle, is what makes you valuable.
 
 ---
 
-## The Power Game Nobody's Talking About
+## The Power Game
 
-Here's what's actually happening:
+Five companies now mediate how millions of people think, and they decide what we repeat, what seems obvious, and what seems like a good idea. 
 
-Five companies now mediate how millions of people think. They decide what patterns get reinforced, what solutions seem obvious, what ideas feel creative.
+You think you're getting an AI based personal assistant. In reality, you are getting homogenized thought, filtered through the same training data, the same RLHF, the same guardrails.
 
-You think you're getting personalized assistance. You're actually getting homogenized thought, filtered through the same training data, the same RLHF, the same guardrails.
-
-The real AI apocalypse isn't robots taking over. It's human thought converging to the same bland average. Everyone writing with the same voice, solving problems the same way, having the same "insights" because we all have one same teacher.
+The real AI apocalypse isn't robots taking over. It's human thought converging to the same averages. Everyone writing with the same voice, solving problems the same way, having the same "insights" because we all have the same teacher.
 
 ---
 
 ## What You Should Actually Do
 
-**The Explanation Test**: Explain something you're working on to someone outside your field. If you can't explain it, you don't understand it.
+**Think before you ask**: To give your brain a workout, try writing down your thoughts, bullet points, anything which comes to your mind. Then ask the AI to build on it. It might feel slow and tiring like returning to the gym after a break, but thats the point. 
 
-**Build Something Stupid**: Create something nobody needs. A bad story, an inefficient solution, a wrong answer. The point isn't the output, it's exercising the muscle of creation without the support of "best practices" from an LLM.
+**The Explanation Test**: Instead of saying, "Give me the answer", try saying "Guide me through the problem so I can solve this on my own". Request step by step explanations. Once the answer is there, close the chat window and try to explain it to test the retention. 
 
-**Read Actual Books**: Not the AI generated summaries. Your brain needs to struggle to understand something, not just consume pre-digested insights.
+**Read Actual Books**: Your brain needs to struggle to understand something, not just consume pre-digested insights.
 
 **Solve Problems Backwards**: When facing a unique issue or a question, start by assuming the AI's first suggestion is wrong. Work backwards to understand why. You'll often find it was right, but now you'll know WHY.
 
@@ -159,7 +151,7 @@ The real AI apocalypse isn't robots taking over. It's human thought converging t
 
 We're at an inflection point. Not for AI but for us.
 
-Either we maintain our ability to think and understands what these tools actually are. A brilliant pattern matchers that simulate understanding without possessing it, or we atrophy into prompt engineers for systems we don't comprehend, solving problems we can't actually solve, knowing things we don't really know.
+Either we maintain our ability to think and understand what these tools actually are. Brilliant pattern matchers that simulate understanding without possessing it, or we atrophy into prompt engineers for systems we don't comprehend, solving problems we can't actually solve, knowing things we don't really know.
 
 "Just ask ChatGPT" has become the default answer to everything. But what happens when ChatGPT doesn't know? What happens when it's confidently wrong? What happens when the problem needs actual understanding, not pattern matching?
 
