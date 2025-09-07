@@ -73,7 +73,7 @@ You're faster at producing mediocre work. All the solutions, all the articles, a
 
 **Lie #3: "I'll learn the real skills when I need them"**
 
-No, you won't. Skills atrophy. More importantly, you won't even know what you don't know. 
+No, you won't. Skills atrophy. More importantly, you won't even know what you don't know, and [Dunning-Kruger](https://en.wikipedia.org/wiki/Dunning–Kruger_effect) can kink in. 
 
 ---
 
