@@ -27,7 +27,7 @@ And this made me realize that somewhere along the way, I stopped thinking throug
 
 The LLMs do not think, but what is more worrisome is that **we might start doing the same**. 
 
-Earlier when we got the problem, we pull the logs, trace through the event sequence line by line  in the logs and then compare the working, non-working. Once we get the idea, then we match the code and which lines are creating the issue. We would add verbose logging to trace every step, to understand exactly where things broke. 
+Earlier, when we got a problem, we would pull the logs, trace the event sequence line by line, and compare the working and non-working scenarios. Once we understood the flow, we matched it against the code to identify the logic that caused the issue. We often added verbose logging to trace every step, explore deeper, and understand exactly how the system worked. And the verbose logging was not only the debugging tool, but often the way we learned how the system _really_ worked. 
 
 Today we go straight to ChatGPT, not for help to think through the issue, but to avoid thinking entirely. We want the quick answer, not the understanding of the concepts.  We copy the error and then the code, and ChatGPT diagnoses everything and tell where lies the problem and its all done. 
 
