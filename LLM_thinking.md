@@ -19,7 +19,7 @@ This time? I copied the error, pasted it into ChatGPT, got a solution, copied it
 
 I never understood why it failed. I never learned what fixed it. All I cared was the solution. 
 
-And this made me realize that somewhere along the way, I stopped thinking through the problem and I think many of us did. 
+And this made me realize that somewhere along the way, I stopped thinking through the problem. According to [Stack Overflow Survey](https://survey.stackoverflow.co/2025/ai#sentiment-and-usage-ai-select) I am part of the 84% of developers now using AI tools - up from 76% just last year. We are all doing this.
 
 ---
 
