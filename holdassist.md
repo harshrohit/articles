@@ -24,7 +24,7 @@ This is not just a design change but the bigger shift, a shift where the waiting
 
 Waiting is not just an annoyance for customers, it’s a billion dollar business for enterprises.  
 
-According to the recent market study https://dimensionmarketresearch.com/report/virtual-queuing-system-market/, the global virtual queuing system market is worth $657 million today and expected to reach $1.27 billion by 2034, enough to employ 20,000 contact center agents full-time.
+According to the recent market [study](https://dimensionmarketresearch.com/report/virtual-queuing-system-market/), the global virtual queuing system market is worth $657 million today and expected to reach $1.27 billion by 2034, enough to employ 20,000 contact center agents full-time.
 
 ---
 
@@ -65,7 +65,7 @@ Or maybe it won’t be different. Maybe the hold industry adapts again.
 
 ## The Big Question  
 
-If Android’s **"Hold for Me" features didn’t change the industry, can Apple's **"Hold Assist"** have the potential to make a change? 
+If Android’s **"Hold for Me"** features didn’t change the industry, can Apple's **"Hold Assist"** have the potential to make a change? 
 
 - Maybe enterprises reinvent hold engagement, channel switching will be more widely used. Instead of playing hold music, companies just say, we will let you know when the agent is ready. May be "callback" becomes the de-facto standard. 
 - Or maybe, when customers start ignoring hold experiences at scale, the economics finally break.  
