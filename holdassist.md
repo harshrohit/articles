@@ -10,9 +10,10 @@ patternGradient: "from-purple-200/50 to-indigo-200/50"
 ---
 
 Yesterday, I called to reschedule my booking. After navigating the menu, I heard the familiar script: *“Your call is very important to us and someone will be there shortly.”*  
+
 Instead of hearing the robotic message in a loop and getting a sense of false importance, I tried Apple’s **Hold Assist**, which muted the music and notified me when the agent answered.  
 
-For 50 years, companies controlled what you heard while waiting, and yesterday with Apple’s Hold Assist this may change the equation. 
+For 50 years, companies controlled what you heard while waiting, and with Apple’s **Hold Assist** this may change the equation. 
 
 Apple released iOS 26 and a new feature called “Hold Assist” which detects the hold music, mutes it, and sends you a notification when the agent answers your call. 
 
