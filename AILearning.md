@@ -24,7 +24,7 @@ MIT study revealed four patterns that define the GenAI Divide:
 - **Investment Bias**: Budgets favor visible, top-line functions over high-ROI back office
 - **Implementation advantage**: External partnerships see twice the success rate of internal builds.
 
-And the core barrier to scaling is not infrastructure, regulation, or talent. It is learning. Most GenAI systems do not retain feedback, adapt to context, or improve over time.
+And the core barrier to scaling is not infrastructure, regulation, or talent. **It is learning.** Most GenAI systems do not retain feedback, adapt to context, or improve over time.
 
 And this raises the fundamental question.
 
