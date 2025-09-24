@@ -42,7 +42,7 @@ When we say "AI learns", what exactly is learning? The model itself is frozen - 
    - **Fine-Tuning** - Expensive, risky and frozen in time.
    - **Prompt Engineering**: the prompts drift and there is no guarantee which one is the perfect.
 
-3. **Organizational Learning**: If the AI doesn't learn and the system barely adapts, who is supposed to be learning
+3. **Organizational Learning**: If the AI doesn't learn and the system barely adapts, who is supposed to be learning. The humans and organizations around the AI. This is where the real "learning" must happen - in processes, workflows, and institutional knowledge about what works and what doesn't.
 
 ## The Agentic AI Paradox
 
@@ -59,9 +59,9 @@ Maybe the problem is more philosophical than technical. We're trying to implemen
 
 **What would it mean to build learning around AI rather than expecting learning from AI?**
 
-## The Learning We Actually Build
+## The Human Work Behind "AI Learning"
 
-The successful 5% are not failing, but they're generating real ROI. So what are they actually doing?
+When AI systems do work, here's what's actually happening behind the scenes:
 
 ### A Typical Implementation Journey
 
@@ -79,6 +79,30 @@ Agentic AI adds another complexity which makes the system capable to execute act
 
 The model remains frozen. The scaffolding around it evolves and only because people push it forward.
 
+But this raises the question: **If this much human work is required, what makes some attempts successful while others fail?**
+
+### The Feedback Story
+
+After all the above steps, the system is put into production and Sarah was assigned the responsibility to manage the system.
+
+The system started serving real user's request from Billing queries, to technical details etc. Some users really liked it, others had hesitations, but overall, people were actually using it.
+
+As days passed, Sarah looked at the feedback. Users who got good answers rarely bothered to comment. Users who got wrong answers were vocal, but even then, many who got bad answers didn't care enough to complain.
+
+Sarah has the feedback but was clueless what to do with that. Users were telling whats wrong but how to trace it back, from where the LLM hallucinated or where the LLM was not able to provide the answer. More importantly, how to make sure it does not happen again. 
+
+She started building a dashboard from which queries are coming in and based on that, the system is fetching which knowledge documents, how the documents are ranked. And finally what are surfaced infront of the LLM for the final answer. 
+
+But within weeks, there were thousands of interactions logged and Sarah cannot handle all this alone. So she did what most people do, focus on the loudest complaints. 
+
+What about the other interactions which she never got the chance to look. The hallucinations, the system failing to provide any answers. was accepted by the users. This slowly degrading trust quietly moved the people away from the system. 
+
+Months later, usage started declining. Not because of dramatic failures, but because of a thousand small disappointments that no one reported and Sarah never had time to find.
+
+The AI stayed frozen. The problems that mattered most were the ones humans never had the bandwidth to solve.
+
+The truth is, we don't know exactly what the successful 5% are doing differently. But we do know that whatever they're doing, it's not because their AI is learning.
+
 ## The Philosophical Question
 
 When organization build elaborate processes around frozen AI, where does the intelligence reside. In the AI or in the human systems that guides it?
@@ -87,6 +111,6 @@ The successful 5% do not have "learning AI" but "learning organizations" that ha
 
 ## Conclusion
 
-The $238 billion question isn't whether AI can learn - it clearly can't. It's whether we are willing to acknowledge that the 'intelligence' in our AI systems is actually human intelligence, carefully maintained through invisible labor. The successful 5% haven't built learning machines. They've built machines that require constant human learning to function.
+The $28 billion question isn't whether AI can learn - it clearly can't. It's whether we are willing to acknowledge that the 'intelligence' in our AI systems is actually human intelligence, carefully maintained through invisible labor. The successful 5% haven't built learning machines. They've built machines that require constant human learning to function.
 
 Maybe that's enough. Or maybe we are building something we have not yet identified, intelligence that exists not in the model, not in the system, but in the gap between human and machine.
