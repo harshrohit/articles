@@ -9,7 +9,8 @@ gradient: "from-purple-100 to-indigo-100"
 patternGradient: "from-purple-200/50 to-indigo-200/50"
 ---
 
-Last year companies spent around $250 billion on AI ([Gartner forecast](https://www.gartner.com/en/newsroom/press-releases/2025-03-31-gartner-forecasts-worldwide-genai-spending-to-reach-644-billion-in-2025)). Yet an [MIT study](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) found that only 5% were able to deliver ROI. That leaves $238 billion in failed implementations - more than the entire GDP of New Zealand or Greece. An amount of money that could run Portugal's entire economy for most of a year, essentially vanished with nothing to show for it.
+Last year companies spent around $30-$40 billion in enterprise investments in AI. Yet an [MIT study](https://mlq.ai/media/quarterly_decks/v0.1_State_of_AI_in_Business_2025_Report.pdf) found that only 5% were able to deliver ROI. 
+That leaves **$28.5–38 billion in wasted investment** more than **NASA’s entire annual budget (~$25B)**, larger than the **GDP of Iceland or Cyprus**, and greater than **Spotify’s global revenue**.  
 
 The statistics are shocking, but misleading if taken at face value. If 95% of the projects failed, the first instinct is to blame the technology. However, the same study shows that 5% of the projects succeeded, which means the technology does work, but many organizations cannot explain how to harness this new technology. They launch pilots without explaining what success looks like, try to replicate the demo into their own messy environment, they measure outputs without explaining their business impact, and they abandon projects without explaining what went wrong.
 
